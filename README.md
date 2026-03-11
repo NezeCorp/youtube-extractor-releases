@@ -6,7 +6,7 @@
 
 Extractions, transcriptions, suggestions IA — le tout depuis une seule application.
 
-[![Telecharger](https://img.shields.io/badge/Telecharger-v0.2.0--beta-blue?style=for-the-badge&logo=windows)](https://github.com/NezeCorp/youtube-extractor-releases/releases/latest)
+[![Telecharger](https://img.shields.io/badge/Telecharger-v0.2.1--beta-blue?style=for-the-badge&logo=windows)](https://github.com/NezeCorp/youtube-extractor-releases/releases/latest)
 
 </div>
 
